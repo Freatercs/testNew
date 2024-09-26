@@ -3,6 +3,8 @@ public class HelloWorld {
         System.out.println("Hello World1");
         System.out.println("Hello World\n");
         System.out.println("New Feature");
+        System.out.println("Hello World\n");
+        System.out.println("New Feature\n");
     }
 }
 
